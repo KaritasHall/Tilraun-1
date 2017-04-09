@@ -1,0 +1,14 @@
+h2 {
+    font-family: "Calibri";
+    color: purple;
+    text-align: center;
+}
+
+p {
+    font-family: "Calibri";
+
+}
+
+p:hover {
+    font-weight: bold;
+}
